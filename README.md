@@ -8,4 +8,7 @@
 ### my setup (web-only, i have no money)
 * google ai studio (gemini 3.6 / 3.5 flash).
 * glm 5.2.
-* deepseek v4.
+* deepseek.
+
+### warning
+if my code works, thank gemini, glm, or deepseek. if it doesn't, please do not open an issue, i don't know how to fix it.
