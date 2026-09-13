@@ -1,17 +1,21 @@
 # hi im ashley
 
+terminally online high schooler vibecoding on borrowed compute. i do not write software, i peer-pressure neural networks into generating things until the terminal stops flashing red.
+
 ### what i do
-* vibe code (all day every day)
-* everyone hates ai these days, so naturally, that is all i use.
-* absolutely nothing else to contribute to society except wasting water.
-### my setup (web-only, i have no money)
-* google ai studio (gemini 3.7 / 3.6 flash on high thinking).
-* glm 5.2. (rip, now its paid)
-* deepseek. (the goat in conversation :3)
+- 24/7 vibecoding (i have never opened official documentation in my life)
+- everyone complains about ai stealing dev jobs, so naturally, that is my entire stack
+- personally evaporating thousands of gallons of data center cooling water just to center a single widget
 
-### warning:
-* if my code works, throw a party for the models, and thank the llms (and heaven) for it. if it doesn't, please do **not** open an issue, i don't know how to fix it.
+### the rig (zero budget edition)
+- **google antigravity**: running on a free student pro plan because the verification check did not realize high schoolers do not possess college degrees
+- **deepseek**: the goat for conversational syntax help and general emotional validation :3
+- **hardware**: whatever chromium tab has not consumed the remaining two gigabytes of system memory
 
-### extra:
-* if somehow, by the universe i get a star, i will personally bow to u :3
-* and also ask deepseek to write me a thank u note for u ♡
+### warranty & support
+- if the code works: throw a sacrifice to the transformer weights and thank the compute gods.
+- if the code breaks: please do **not** open an issue. i did not write this code, i do not understand this code, and asking me to debug it is an act of psychological warfare.
+
+### star incentives
+- if by some miracle of the universe you star one of my repos, i will spiritually bow to you :3
+- and i will instruct deepseek to draft a hyper-specific, ai-hallucinated thank-you note just for you ♡
