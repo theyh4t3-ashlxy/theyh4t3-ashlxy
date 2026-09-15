@@ -9,7 +9,7 @@ terminally online high schooler vibecoding on borrowed compute. i do not write s
 
 ### the rig (zero budget edition)
 - **google antigravity**: running on a free student pro plan because the verification check did not realize high schoolers do not possess college degrees
-- **deepseek**: the goat for conversational syntax help and general emotional validation :3
+- **deepseek**: the goat in conversations & general emotional validation :3
 - **hardware**: whatever chromium tab has not consumed the remaining two gigabytes of system memory
 
 ### warranty & support
