@@ -21,6 +21,6 @@ im a chronically online high schooler vibecoding on borrowed compute. i dont wri
 
 ### star incentives
 * if by some miracle of the universe you star one of my repos, i will spiritually bow to you :3
-* i will immediately instruct your ai of choice (or Gemini as my choice) to draft a hyper-specific, ai-hallucinated thank-you note just for you ♡
+* i will immediately instruct your ai of choice (or gemini as my choice) to draft a hyper-specific, ai-hallucinated thank-you note just for you ♡
 
 bye
