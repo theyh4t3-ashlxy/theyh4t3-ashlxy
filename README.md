@@ -5,18 +5,18 @@ im a chronically online high schooler vibecoding on borrowed compute. i dont wri
 (you could say i'm calliou)
 
 ### what i do
-* **24/7 vibecoding** -- i have never opened official documentation in my life and i intend to keep this streak alive.
-* **job thief** -- everyone complains about ai stealing jobs, wasting water, global warming, ai girlfriend, whatever. so naturally, it's my whole stack.
-* **css pioneer** -- boiling a literal ocean of coolant liquid just to center a single `<div>` widget.
+* **24/7 vibe coding** -- i have never opened official documentation in my life and i intend to keep this streak alive.
+* **job thief** -- everyone complains about ai stealing jobs, wasting water, ai girlfriend, whatever. so naturally, it's my whole stack. pretty cool, right?
+* **ai designer pioneer** -- boiling lake america just to center a single `<div>` widget.
 
-### the rig (zero budget edition)
+### what i use
 * **[google antigravity](https://antigravity.google)** -- running on a free student pro plan because the verification check didn't realize high schoolers don't possess college degrees.
 * **[google ai studio](https://aistudio.google.com)** -- for when i need to aggressively fix antigravity's hallucinations.
 * **[deepseek](https://chat.deepseek.com)** -- the undisputed goat in conversations & general emotional validation :3
 * **hardware** -- a thinkpad t16 gen 1. if only i had a t480 or something. actually nah i love my baby t16.
 
 ### warranty & support
-* **if the code works:** throw a sacrifice to the transformer weights and thank the compute gods.
+* **if the code works:** throw a surprise party for the transformer weights.
 * **if the code doesnt work:** i dont know. have your ai fix my code and pull a pr for me.. please??? for me? :3
 
 ### star incentives
