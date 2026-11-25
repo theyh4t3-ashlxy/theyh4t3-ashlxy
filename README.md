@@ -10,7 +10,7 @@ im a chronically online high schooler vibecoding on borrowed compute. i dont wri
 
 ### what i use
 - [google antigravity](https://antigravity.google) — running on a free student pro plan because the verification check didnt realize high schoolers dont have college degrees.
-- [google ai studio](https://google.com) — for aggressively fixing antigravitys hallucinations. hydrogen is actually good now though.
+- [google ai studio](https://aistudio.google.com) — for aggressively fixing antigravitys hallucinations. hydrogen is actually good now though.
 - hardware — a thinkpad t16 gen 1. i wish i had a t480, though i like my t16.
 
 ### warranty & support
